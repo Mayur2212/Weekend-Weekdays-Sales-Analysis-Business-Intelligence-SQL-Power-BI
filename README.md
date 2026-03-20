@@ -1,4 +1,4 @@
-# Pizza-Sales-Analysis-Business-Intelligence-Dashboard-SQL-Power-BI
+# Weekend-Weekdays-Sales-Analysis-Business-Intelligence-SQL-Power-BI
 SQL and Power BI project transforming raw pizza sales data into interactive dashboards and business-ready insights.
 ## Project Overview
 This project presents a complete **data analytics and business intelligence workflow** built using **SQL Server and Power BI**. The objective was to analyze pizza sales data, answer critical business questions, and deliver a **report-ready, interactive dashboard** that supports strategic decision-making for a pizza sales company.
